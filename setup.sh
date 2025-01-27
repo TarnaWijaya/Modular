@@ -21,5 +21,5 @@ echo"Berhasil Terpsang.."
 
 
 
-
+echo"Thank you all for your support"
 # end
