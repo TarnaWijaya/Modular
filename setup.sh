@@ -16,8 +16,6 @@ echo"--{ Welcome To Modular }--"
 echo"XTarzAI Product"
 echo"_______________________________________________"
 echo"Memuat..."
-  # perintah setprop atau settings
-settings put global *_device_name TarzAI Linux -44
 settings put global force_4x_msaa 1
 settings put global 
 echo"Berhasil Terpsang.."
